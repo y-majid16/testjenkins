@@ -14,5 +14,6 @@ public class LatihanApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("Helllo World");
+		System.out.println("Helllo World11");
 	}
 }
